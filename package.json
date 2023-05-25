@@ -1,0 +1,19 @@
+{
+  "name": "fundamentos-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "choco": "^0.2.1",
+    "httpie": "^1.1.2",
+    "install": "^0.13.0",
+    "upgrade": "^1.1.0"
+  }
+}
